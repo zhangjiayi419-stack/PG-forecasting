@@ -1,0 +1,14 @@
+Metric,Value
+Beta,0.5182
+Alpha_Monthly,0.000672
+Alpha_Annual_Percent,0.81
+R_Squared,0.2151
+Number_of_Monthly_Observations,180
+Data_Start_Date,2010-01-29
+Data_End_Date,2024-12-31
+Risk_Free_Rate_Monthly,0.000941
+Risk_Free_Rate_Annual_Percent,1.14
+Average_Market_Excess_Return_Monthly,0.010857
+Average_Market_Excess_Return_Annual_Percent,13.03
+Expected_Annual_Return_Percent,7.89
+t_statistic_for_Beta,7.0240
